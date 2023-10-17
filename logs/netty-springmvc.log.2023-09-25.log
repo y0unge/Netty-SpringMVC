@@ -1,0 +1,24 @@
+2023-09-25 16:26:59.123 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Sep 25 16:26:59 CST 2023]; root of context hierarchy
+2023-09-25 16:26:59.165 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2023-09-25 16:26:59.199 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/Downloads/Netty-SpringMVC/target/classes/applicationContext.xml]
+2023-09-25 16:27:23.005 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Sep 25 16:27:23 CST 2023]; root of context hierarchy
+2023-09-25 16:27:23.063 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2023-09-25 16:27:23.114 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/Downloads/Netty-SpringMVC/target/classes/applicationContext.xml]
+2023-09-25 16:27:23.351 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Sep 25 16:27:23 CST 2023]; root of context hierarchy
+2023-09-25 16:27:23.375 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(javax.servlet.http.HttpServletRequest)
+2023-09-25 16:27:23.391 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2023-09-25 16:27:23.392 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2023-09-25 16:27:23.397 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 5 ms
+2023-09-25 16:27:23.398 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8086
+2023-09-25 16:27:44.482 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Refreshing Root WebApplicationContext: startup date [Mon Sep 25 16:27:44 CST 2023]; root of context hierarchy
+2023-09-25 16:27:44.535 [main] INFO  o.s.w.c.s.AnnotationConfigWebApplicationContext - Registering annotated classes: [class org.springframework.sandbox.netty.AppConfig]
+2023-09-25 16:27:44.589 [main] INFO  o.s.beans.factory.xml.XmlBeanDefinitionReader - Loading XML bean definitions from URL [file:/D:/Downloads/Netty-SpringMVC/target/classes/applicationContext.xml]
+2023-09-25 16:27:44.821 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerAdapter - Looking for @ControllerAdvice: Root WebApplicationContext: startup date [Mon Sep 25 16:27:44 CST 2023]; root of context hierarchy
+2023-09-25 16:27:44.845 [main] INFO  o.s.w.s.m.m.a.RequestMappingHandlerMapping - Mapped "{[/hello/foo],methods=[],params=[],headers=[],consumes=[],produces=[text/html;charset=utf-8],custom=[]}" onto public java.lang.String org.springframework.sandbox.mvc.TestController.getShopInJSON(javax.servlet.http.HttpServletRequest)
+2023-09-25 16:27:44.863 [main] INFO  org.springframework.mock.web.MockServletContext - Initializing Spring FrameworkServlet ''
+2023-09-25 16:27:44.863 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization started
+2023-09-25 16:27:44.869 [main] INFO  org.springframework.web.servlet.DispatcherServlet - FrameworkServlet '': initialization completed in 5 ms
+2023-09-25 16:27:44.869 [main] INFO  org.springframework.sandbox.netty.MyServer - Netty server has started on port : 8086
+2023-09-25 16:30:15.483 [nioEventLoopGroup-4-1] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/] in DispatcherServlet with name ''
+2023-09-25 16:49:25.770 [nioEventLoopGroup-4-2] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/] in DispatcherServlet with name ''
+2023-09-25 16:49:35.800 [nioEventLoopGroup-4-4] WARN  org.springframework.web.servlet.PageNotFound - No mapping found for HTTP request with URI [/favicon.ico] in DispatcherServlet with name ''
