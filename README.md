@@ -4,6 +4,10 @@
 org.springframework.mock.web.MockHttpServletRequest;
 org.springframework.mock.web.MockHttpServletResponse;
 
+## 测试spring内存马
+
+搭建了netty + spring mvc 用于测试内存马
+
 #### 项目功能
 
 - 支持spring mvc的controller中，注解方式获取参数
